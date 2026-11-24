@@ -28,7 +28,7 @@ The program exits by itself about 15 seconds after HDT closes.
 
 ## Install
 
-Build `WineOverlayHide.exe` from source as described below.
+Download `WineOverlayHide.exe` from the [releases page](../../releases), or build it from source as described below.
 
 Put the exe anywhere inside the Wine prefix where HDT runs. `build.sh --install` uses `drive_c/users/<user>/AppData/Local/WineOverlayHide/`. Under Proton the user is usually `steamuser`.
 
