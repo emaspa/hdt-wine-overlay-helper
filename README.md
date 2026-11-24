@@ -49,7 +49,7 @@ If you'd rather keep your launcher as it is, start `WineOverlayHide.exe` without
 
 ## Coming from the plugin
 
-Delete `WineOverlayHide.dll` from `AppData/Roaming/HearthstoneDeckTracker/Plugins/` in the prefix. From November 30th HDT ignores it anyway.
+Delete `WineOverlayHide.dll` from `AppData/Roaming/HearthstoneDeckTracker/Plugins/` in the prefix. From November 30th 2026 HDT ignores it anyway.
 
 ## Build from source
 
